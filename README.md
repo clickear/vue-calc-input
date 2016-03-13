@@ -1,7 +1,7 @@
 # Vue Calc Input
 A directive for [Vue.Js](http://vuejs.org) to make an calculator input behavior. Implementation of [readable-number.js](https://github.com/BosNaufal/readable-number)
 
-#### [DEMO](http://codepen.io/BosNaufal/pen/mPrrLz?editors=1010)
+#### [DEMO](http://codepen.io/BosNaufal/full/mPrrLz/)
 
 
 ## Install
