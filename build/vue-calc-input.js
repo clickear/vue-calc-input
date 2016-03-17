@@ -23,6 +23,7 @@ Vue.directive('calc-input',{
 	},
 
 	unbind: function() {
+		var me = this;
 		// Remove The listener
 		me.el.removeEventListener('input',me.evt, false);
 	}
